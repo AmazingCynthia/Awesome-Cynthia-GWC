@@ -1,7 +1,8 @@
-p{
+div{
 background: blue;
 color: cyan;
 font size: 18;
 border: green;
 border width: 3 pixels;
+border style: double;
 }
