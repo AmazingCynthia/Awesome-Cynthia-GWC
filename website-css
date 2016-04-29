@@ -1,11 +1,15 @@
 div{
-background-color: cyan;
+background-color: lightblue
 h1{
 color: cyan;
+font size: 18;
+}
+h2{
+color: black;
 font size: 14;
 }
 p{
-color: pink;
+color: black;
 font size: 14;
 }
 }
