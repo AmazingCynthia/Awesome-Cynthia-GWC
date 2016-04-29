@@ -1,5 +1,5 @@
 div{
-background: blue;
+background-color: cyan;
 h1{
 color: cyan;
 font size: 14;
