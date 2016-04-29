@@ -1,0 +1,11 @@
+div{
+background: blue;
+h1{
+color: cyan;
+font size: 14;
+}
+p{
+color: pink;
+font size: 14;
+}
+}
