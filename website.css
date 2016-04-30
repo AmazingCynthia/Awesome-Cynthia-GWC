@@ -1,8 +1,10 @@
 div{
-background-color: lightblue
-h1{
+background-color: aqua
+.h1{
 color: cyan;
 font size: 18;
+margin: 5px;
+padding: 
 }
 h2{
 color: black;
@@ -11,5 +13,8 @@ font size: 14;
 p{
 color: black;
 font size: 14;
+attribute: value;
+margin:
+padding:
 }
 }
