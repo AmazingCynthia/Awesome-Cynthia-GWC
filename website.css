@@ -4,17 +4,10 @@ background-color: aqua
 color: cyan;
 font size: 18;
 margin: 5px;
-padding: 
+font weight: regular;
 }
-h2{
+h2, p{
 color: black;
 font size: 14;
-}
-p{
-color: black;
-font size: 14;
-attribute: value;
-margin:
-padding:
 }
 }
