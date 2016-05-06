@@ -1,13 +1,12 @@
 div{
 background: #ffaaee; /* : #rrggbb */
 .h1{
-color: lightgreen;
+font color: lightgreen;
 font size: 18;
 margin: 5px;
 font weight: regular;
 }
 h2, p{
-color: black;
 font size: 14;
 }
 }
