@@ -1,7 +1,7 @@
 div{
-background-color: aqua
+background: #ffaaee; /* : #rrggbb */
 .h1{
-color: cyan;
+color: lightgreen;
 font size: 18;
 margin: 5px;
 font weight: regular;
