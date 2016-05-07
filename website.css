@@ -1,6 +1,5 @@
 div{
-background: pink
-.h1{
+f.h1{
 font color: lightgreen;
 font size: 18;
 margin: 5px;
@@ -9,25 +8,4 @@ font weight: regular;
 h2, p{
 font size: 14;
 }
-.nav{
-  margin: auto;
-  text-align:center;
-  }
-  body{
-    width: 800px;
-    text-align: center;
-    margin: auto;
- }
-  
-.nav >div{
-  background: #ffaaee; /* : #rrggbb */
-  float: left;
-  padding: 18px;
-  border: 4px dashed lightblue;
-  border-radius: 4px;
-  }
-  .nav > div:hover{
-    background: pink;
-    height: 25px;
-  }
 }
