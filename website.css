@@ -1,18 +1,18 @@
 body {
-    background-color: #99ff66;
+    background-color: #ccff99;
     }
 
     h1 {
         color: #000099;
-        font-size: 18px;
+        font-size: 36px;
     }
     
     h2 {
-        font size: 14;
+        font-size: 14px;
         color: #000099;
     }
 
 p {
-    font size: 14;
+    font-size: 24px;
         color: #000099;
 }
