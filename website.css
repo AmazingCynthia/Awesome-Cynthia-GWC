@@ -1,13 +1,11 @@
-div {
-    body{
-    background: yellow;
+body {
+    background-color: #FFFF66;
     }
     }
     h1 {
-        font color: lightblue;
-        font size: 18;
-        margin: 5px;
-        font weight: regular;
+        color: #009933 ;
+        font-size: 18px;
+
     }
     h2,p {
         font size: 14;
