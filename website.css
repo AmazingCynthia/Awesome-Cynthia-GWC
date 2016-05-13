@@ -16,3 +16,10 @@ body {
     font-size: 24px;
         color: #000099;
 }
+
+img {
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    float: left;
+}
