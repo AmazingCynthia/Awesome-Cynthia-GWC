@@ -19,7 +19,7 @@ body {
 
 img {
     width: 400px;
-    height: 300px;
+    height: 500px;
     display: inline-block;
-    float: left;
+    float: center;
 }
