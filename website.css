@@ -29,8 +29,8 @@ body {
     margin: 3;
     padding: 2;
     overflow: hidden;
-    border: 1px solid #cc00cc;
-    background-color: #cc00cc;
+    border: 1px solid ##cc00cc;
+    background-color: ##cc00cc;
     }
 
     ul.tab li a {
