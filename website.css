@@ -15,11 +15,46 @@ body {
     p{
     font-size: 24px;
         color: #336699;
-}
+    }
 
-img {
+    img {
     width: 400px;
     height: 500px;
     display: inline-block;
     float: center;
+    }
+
+    ul.tab {
+    list-style-type: none;
+    margin: 3;
+    padding: 2;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #99ffcc;
+    }
+
+    ul.tab li a {
+    display: inline-block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 24px;
+    }
+    ul.tab li a:hover {background-color: ##33ccff;}
+    
+    ul.tab li a:focus, .active {background-color: ##ccccff;}
+    
+    .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
 }
+
+
+
+
+
+
